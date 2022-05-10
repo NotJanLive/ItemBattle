@@ -1,0 +1,23 @@
+name: ItemBattle
+main: de.notjan.main.ItemBattle
+version: 1.0
+api-version: 1.18
+author: NotJan
+commands:
+  forcereload:
+    description: Reload-Command
+    permission: itembattle.reload
+  start:
+    description: Start-Command
+    permission: itembattle.start
+  results:
+    description: Results-Command
+  reset:
+    description: Reset-Command
+    permission: itembattle.reset
+  top:
+    description: Top-Command
+  debugskip:
+    description: Debug-Command
+  test:
+    description: Test-Command
